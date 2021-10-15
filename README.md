@@ -18,7 +18,7 @@
 #小程序的效果如下
 可以自定义样式，然后上传美食，美景两个板块
 ![pic1](./static/sample1.png)
-![pic1](./static/sample2.png)
+![pic2](./static/sample2.png)
 
 
 
