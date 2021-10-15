@@ -11,4 +11,5 @@
 
 # 技术选型：uniapp+unicloud
 也就是基于vue开发，同时操作云端数据库来进行curd
-
+数据库结构如下
+![pic1](./statc/sample1.png)
